@@ -20,7 +20,8 @@ To install the project, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd tailwind-html
+   cd tailwind-html-starter
+
 3. Install the dependencies:
    ```bash
    npm install
