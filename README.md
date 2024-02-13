@@ -16,7 +16,7 @@ To install the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prxncxss03/tailwind-html.git
+   git clone https://github.com/prxncxss03/tailwind-html-starter.git
 
 2. Navigate to the project directory:
    ```bash
