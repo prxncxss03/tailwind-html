@@ -1,4 +1,4 @@
-# Tailwind HTML Setup 🚀
+# 🚀 Tailwind HTML Starter Kit
 
 [![Built with Tailwind CSS](https://img.shields.io/badge/Built_with-Tailwind_CSS-blueviolet?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
